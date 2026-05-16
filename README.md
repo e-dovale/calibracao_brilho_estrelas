@@ -30,5 +30,3 @@ A análise permitiu validar estatisticamente as observações da estrela, identi
 ## 📁 Estrutura do Repositório
 - `analise_estrelas_variaveis.ipynb`: Notebook completo com a implementação
 - `README.md`: Este arquivo
-
-cat(readme_content)
