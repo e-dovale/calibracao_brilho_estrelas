@@ -20,8 +20,7 @@ O objetivo é simular um conjunto de 1.000 observações de brilho para esta est
   - Regra dos 3σ: 4 outliers (0.4% dos dados)
 
 ## 💡 Conclusão
-A análise permitiu validar estatisticamente as observações da estrela, identificando possíveis falhas instrumentais através da detecção de outliers.
-
+A análise estatística permitiu validar as observações da estrela, demonstrando que a média amostral (15.4793) não difere significativamente do valor teórico esperado (p-valor = 0.4155 > 0.05). Os outliers identificados representam possíveis falhas instrumentais ou interferências atmosféricas e devem ser investigados em observações futuras.
 ## 🛠️ Tecnologias Utilizadas
 - R Language
 - Google Colab
