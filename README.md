@@ -12,12 +12,12 @@ O objetivo é simular um conjunto de 1.000 observações de brilho para esta est
 4. **Detecção de Outliers**: Boxplot e regra dos 3σ
 
 ## 📈 Principais Resultados
-- **Média amostral**: 15.4793
-- **IC 95%**: [15.4296, 15.5291]
-- **Teste t**: 0.415503
-- **Outliers detectados**:
-  • Detectados pelo IQR: 11 (1.1%)
-  • Detectados por 3σ: 4 (0.4%
+- **Média amostral observada**: 15.4793
+- **Intervalo de Confiança (95%)**: [15.4296, 15.5291]
+- **Teste t (p-valor)**: 0.415503
+- **Outliers detectados**: 
+  - Método do Boxplot (IQR): 11 outliers (1.1% dos dados)
+  - Regra dos 3σ: 4 outliers (0.4% dos dados)
 
 ## 💡 Conclusão
 A análise permitiu validar estatisticamente as observações da estrela, identificando possíveis falhas instrumentais através da detecção de outliers.
